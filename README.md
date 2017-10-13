@@ -62,3 +62,4 @@ Tipo de documento | Formato adotado |
 :---: | :---: | 
 Template | .docx |
 Definição gráfica de atividades | .png |
+Template | .docx .xlsx |
