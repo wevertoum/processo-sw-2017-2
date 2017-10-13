@@ -61,4 +61,4 @@ Nesse documento os arquivos estão padronizados da seguinte maneira.
 Tipo de documento | Formato adotado |
 :---: | :---: | 
 Template | .docx |
-Manual Gráfico de atividades | .png |
+Definição gráfica de atividades | .png |
