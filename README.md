@@ -40,22 +40,22 @@ Comunicada | A alteração pode ser feita por qualquer membro do grupo mediante 
 
 
 
-## 4 Controle de nomenclatura
+## 4. Controle de nomenclatura
 O projeto irá utilizar o seguintes padrão na nomenclatura dos arquivos e pastas afim de facilitar a rastreabilidade de um determinado documento.
-# Controle de nomes de arquivos
+# 4.1. Controle de nomes de arquivos
 
 Primeiro arquivo ou pasta do diretorio | Segundo arquivo ou pasta do diretorio | Terceiro arquivo ou pasta do diretorio |
 :---: | :---: | :---: | 
 01-NOME DO ARQUIVO | 02-NOME DO ARQUIVO |  03-NOME DO ARQUIVO |
 
-# Controle de nomes de commits
+# 4.2. Controle de nomes de commits
 Com o intuito de padronizar o fluxo de comunicação nesse processo, é estabelecido um padrão de caracteres para especificar o que exatamente cada novo commit fará.
 
 Deletando um arquivo | Modificando um arquivo | Substituindo um arquivo |
 :---: | :---: | :---: | 
 DEL-BREVE JUSTIFICATIVA | MOD-PRÉVIA DA MODIFICAÇÃO REALIZADA |  SUB-BREVE DESCRIÇÃO DO ARQUIVO ATUAL |
 
-## 5 controle de tipos de arquivos
+## 5. controle de tipos de arquivos
 Nesse documento os arquivos estão padronizados da seguinte maneira.
 
 Tipo de documento | Formato adotado |
